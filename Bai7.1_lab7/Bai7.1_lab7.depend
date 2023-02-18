@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642682233 source:c:\funix\iot\lab\bai7.1_lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+

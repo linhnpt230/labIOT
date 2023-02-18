@@ -1,0 +1,2 @@
+Gia tri cua phan tu 0 la: 1
+Gia tri cua phan tu 1 la: 2

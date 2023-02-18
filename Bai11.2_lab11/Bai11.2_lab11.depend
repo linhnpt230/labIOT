@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650171833 source:c:\funix\lab\bai11.2_lab11\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650691284 source:c:\funix\iot\lab\bai9.1_lab9\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+
